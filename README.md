@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BeterrabaComTorrada
+- 👀 I’m interested in JavaScript, Games, 
+- 🌱 I’m currently learning TypeScript
+- 💞️ Searching a job!
+- 📫 How to reach me 48985036092 
+- ⚡ Fun fact: I'm rpg master!
